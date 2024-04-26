@@ -1,9 +1,13 @@
 # pandas-challenge
 
 ## Prerequisites
-1. install jupyter
+1. install jupyter notebook
 ```
-https://jupyter.org/install
+pip install notebook
+```
+2. install pandas
+```
+pip install pandas
 ```
 
 ## Instructions
@@ -19,7 +23,9 @@ git clone git@github.com:kh-student/pandas-challenge.git
 cd ./pandas-challenge/PyCitySchools
 ```
 
-3. run jupyter notebook from assignment folder (not from main folder)
+3. open jupyter notebook from assignment folder
 ```
 jupyter notebook pycityschools.ipynb
 ```
+
+4. run cells
