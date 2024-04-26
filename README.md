@@ -8,8 +8,7 @@ https://jupyter.org/install
 
 ## Instructions
 
-### PyBank
-
+### PyCitySchools
 1. clone repo
 ```
 git clone git@github.com:kh-student/pandas-challenge.git
